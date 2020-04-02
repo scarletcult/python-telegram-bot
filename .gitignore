@@ -83,3 +83,5 @@ telegram.jpg
 
 # Exclude .exrc file for Vim
 .exrc
+telegram/userprofilephotos.py
+*.py
